@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kanban_clone/static/css/main.ef5022c0.css",
+    "main.js": "/kanban_clone/static/js/main.2e73dd9d.js",
+    "static/media/laal_aunty.png": "/kanban_clone/static/media/laal_aunty.3880807a88b0f709f2d2.png",
+    "static/media/img2.png": "/kanban_clone/static/media/img2.66a324fd4ac41467d723.png",
+    "static/media/img4.png": "/kanban_clone/static/media/img4.1c10d4af0ae7f3756fc6.png",
+    "static/media/img1.png": "/kanban_clone/static/media/img1.6819b361aca92f9e9489.png",
+    "static/media/logon.png": "/kanban_clone/static/media/logon.07acba3dd9145fdb8999.png",
+    "index.html": "/kanban_clone/index.html",
+    "main.ef5022c0.css.map": "/kanban_clone/static/css/main.ef5022c0.css.map",
+    "main.2e73dd9d.js.map": "/kanban_clone/static/js/main.2e73dd9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef5022c0.css",
+    "static/js/main.2e73dd9d.js"
+  ]
+}

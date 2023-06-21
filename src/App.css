@@ -182,6 +182,14 @@ font-family: 'Inter';
       color: black;
       margin-right: 11px;
 }
+
+  .listhover{
+  padding-left: 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 2.5rem;
+  margin-right: 11px;
+  }
   .listhover:hover{
 background-color: rgba(80, 48, 229, 0.08);
 padding-top: 5px;
@@ -518,8 +526,5 @@ color: #787486;
   }
   .comm{
     flex-direction: column;
-  }
-  .mob_pad{
-
   }
 }
